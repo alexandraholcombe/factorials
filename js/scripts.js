@@ -20,3 +20,6 @@ $(document).ready(function() {
 
   });
 });
+
+// minh for loop
+// for (var currentNumber = 1; currentNumber<=numberInput; currentNumber++)
